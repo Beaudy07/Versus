@@ -23,4 +23,27 @@
         "modificationDate" : "28/10/2021"
 
     } 
+    {
+
+        "author" : "Beaudy", 
+
+        "name" : "VERSUS Ilyzael transparent", 
+
+        "keyWords" : "versus,ilyzael",
+
+        "version" : "1.0.0",
+
+        "dofusVersion" : "2.61", 
+
+        "description" : "Theme pour la guilde VERSUS du serveur Ilyzael version transparente", 
+
+        "url" : "https://github.com/Beaudy07/Versus/raw/main/versus2.zip",
+
+        "previewUrl" : "https://github.com/Beaudy07/Versus/blob/be9b75201e61867e2af853c74ecd34c1cbf7b00a/VERSUS.jpg?raw=true", 
+
+        "creationDate" : "17/10/2021", 
+
+        "modificationDate" : "28/10/2021"
+
+    } 
 ]
